@@ -1,0 +1,6 @@
+2012-09-25T16:14:54-04:00 DEBUG (7): export.php line 70 - starting export process with from = 2012-09-24 and to = 2012-09-25
+2012-09-25T16:14:54-04:00 INFO (6): export.php line 291 - Added 1996 rows from Activities for Export
+2012-09-25T16:14:54-04:00 INFO (6): No rows added from Deliveries
+2012-09-25T16:14:54-04:00 INFO (6): /var/www/html/modells/reports/modells_daily_response_file_2012_09_24.txt
+2012-09-25T16:14:54-04:00 INFO (6): <white ongreen>Finished</white ongreen> <white>=)</white>
+2012-09-25T16:14:54-04:00 DEBUG (7): <bold>Total Time:</bold> 0.72 secs

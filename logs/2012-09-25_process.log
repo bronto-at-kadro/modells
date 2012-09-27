@@ -1,0 +1,40 @@
+2012-09-25T16:14:01-04:00 INFO (6): STARTING REPORTING WITH THIS COMMAND = php /var/www/html/modells/activities.php --from=2012-09-24 --to=2012-09-25  >> /var/www/html/modells/logs/2012-09-24_dailyreport.log
+2012-09-25T16:14:04-04:00 INFO (6): Starting <yellow>send</yellow> Activities...
+2012-09-25T16:14:04-04:00 INFO (6):   Page: <green>0001</green> Date: <green>2012-09-24</green> Total: <green>0</green>
+2012-09-25T16:14:15-04:00 INFO (6):   Got activityDate <purple>2012-09-25T04:04:15.975Z</purple> newer than <purple>2012-09-25</purple>, skipping the rest...
+2012-09-25T16:14:15-04:00 INFO (6): <white ongreen>Finished</white ongreen> <white>=)</white>
+2012-09-25T16:14:15-04:00 DEBUG (7): Total Processed: 746
+2012-09-25T16:14:15-04:00 DEBUG (7): Total Time:      13.07 secs
+2012-09-25T16:14:17-04:00 INFO (6): Starting <yellow>open</yellow> Activities...
+2012-09-25T16:14:17-04:00 INFO (6):   Page: <green>0001</green> Date: <green>2012-09-24</green> Total: <green>0</green>
+2012-09-25T16:14:32-04:00 INFO (6):   Got activityDate <purple>2012-09-25T04:06:03Z</purple> newer than <purple>2012-09-25</purple>, skipping the rest...
+2012-09-25T16:14:32-04:00 INFO (6): <white ongreen>Finished</white ongreen> <white>=)</white>
+2012-09-25T16:14:32-04:00 DEBUG (7): Total Processed: 1,126
+2012-09-25T16:14:32-04:00 DEBUG (7): Total Time:      17.61 secs
+2012-09-25T16:14:33-04:00 INFO (6): Starting <yellow>click</yellow> Activities...
+2012-09-25T16:14:33-04:00 INFO (6):   Page: <green>0001</green> Date: <green>2012-09-24</green> Total: <green>0</green>
+2012-09-25T16:14:34-04:00 INFO (6):   Got activityDate <purple>2012-09-25T04:38:33Z</purple> newer than <purple>2012-09-25</purple>, skipping the rest...
+2012-09-25T16:14:34-04:00 INFO (6): <white ongreen>Finished</white ongreen> <white>=)</white>
+2012-09-25T16:14:34-04:00 DEBUG (7): Total Processed: 113
+2012-09-25T16:14:34-04:00 DEBUG (7): Total Time:      1.98 secs
+2012-09-25T16:14:34-04:00 INFO (6): Starting <yellow>bounce</yellow> Activities...
+2012-09-25T16:14:34-04:00 INFO (6):   Page: <green>0001</green> Date: <green>2012-09-24</green> Total: <green>0</green>
+2012-09-25T16:14:35-04:00 INFO (6):   Got activityDate <purple>2012-09-25T05:27:34Z</purple> newer than <purple>2012-09-25</purple>, skipping the rest...
+2012-09-25T16:14:36-04:00 INFO (6): <white ongreen>Finished</white ongreen> <white>=)</white>
+2012-09-25T16:14:36-04:00 DEBUG (7): Total Processed: 9
+2012-09-25T16:14:36-04:00 DEBUG (7): Total Time:      1.34 secs
+2012-09-25T16:14:36-04:00 INFO (6): Starting <yellow>unsubscribe</yellow> Activities...
+2012-09-25T16:14:36-04:00 INFO (6):   Page: <green>0001</green> Date: <green>2012-09-24</green> Total: <green>0</green>
+2012-09-25T16:14:36-04:00 INFO (6):   Got activityDate <purple>2012-09-25T05:27:36.479Z</purple> newer than <purple>2012-09-25</purple>, skipping the rest...
+2012-09-25T16:14:36-04:00 INFO (6): <white ongreen>Finished</white ongreen> <white>=)</white>
+2012-09-25T16:14:36-04:00 DEBUG (7): Total Processed: 5
+2012-09-25T16:14:36-04:00 DEBUG (7): Total Time:      0.22 secs
+2012-09-25T16:14:36-04:00 DEBUG (7): Finished all: <green>2012-09-24</green> -> <green>2012-09-25</green>
+2012-09-25T16:14:36-04:00 DEBUG (7): activites.php line 434 - calling deliveries.php!
+2012-09-25T16:14:36-04:00 DEBUG (7): deliveries.php line 76 - starting delivery process with from = 2012-09-24 and to = 2012-09-25
+2012-09-25T16:14:36-04:00 INFO (6): deliveries.php line 88 - Starting Process for forwardtoafriend deliveries
+2012-09-25T16:14:36-04:00 INFO (6): <white ongreen>Finished</white ongreen> <white>=)</white>
+2012-09-25T16:14:36-04:00 DEBUG (7): Total Processed: 0
+2012-09-25T16:14:36-04:00 DEBUG (7): Total Time:      0.57 secs
+2012-09-25T16:14:36-04:00 DEBUG (7): Finished all: <green>2012-09-24</green> -> <green>2012-09-25</green>
+2012-09-25T16:14:36-04:00 DEBUG (7): deliveries.php line 378 - calling contacts.php with from = 2012-09-24 and to = 2012-09-25
