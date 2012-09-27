@@ -1,1 +1,0 @@
-contact_id|contact_email|campaign_cd|cell_cd|rundate|action_type_desc|action_type_code|action_date
